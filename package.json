@@ -1,0 +1,33 @@
+{
+  "name": "jest-socket-testing",
+  "version": "1.0.0",
+  "description": "Jest Socket.io testing",
+  "main": "socket.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamwahid/jest-socketio-testing.git"
+  },
+  "keywords": [
+    "Jest",
+    "socket.io",
+    "test",
+    "socket",
+    "testing"
+  ],
+  "author": "Wahid Niam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamwahid/jest-socketio-testing/issues"
+  },
+  "homepage": "https://github.com/iamwahid/jest-socketio-testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "dependencies": {
+    "sequelize-mock": "^0.10.2",
+    "socket.io": "^4.5.4"
+  }
+}
